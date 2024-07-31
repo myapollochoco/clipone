@@ -14,6 +14,10 @@
 body{
 	background-color: #f2f2f2;
 }
+@font-face { 
+  font-family: "Baskerville Old Face"; 
+  src: url("baskerville.ttf"); 
+} 
 
 
 .bod{
